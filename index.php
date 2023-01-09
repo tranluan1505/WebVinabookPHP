@@ -22,3 +22,4 @@ if(file_exists($path)){
 else require "inc/404.php";
 ?>
 
+ko sửa gì cả
